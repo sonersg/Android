@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yerel Dil Kaynakları</string>
+    <string name="hello_world">Merhaba Sefil Dünya</string>
+    <string name="do_something">Daha Bakma</string>
+    <string name="toast">Bu bir bildirim.</string>
+</resources>
